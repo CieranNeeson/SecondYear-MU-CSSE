@@ -1,4 +1,5 @@
-*.idea
-*.metadata
+/.idea
+/.metadata
 *.iml
+.DS_Store
 
