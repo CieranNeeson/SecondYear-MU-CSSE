@@ -1,4 +1,3 @@
-package Labs;
 import java.util.Arrays;
 
 public class decrypt 

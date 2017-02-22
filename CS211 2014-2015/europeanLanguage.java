@@ -1,4 +1,3 @@
-package Labs;
 import java.util.*;
 
 public class europeanLanguage 
@@ -6,7 +5,7 @@ public class europeanLanguage
 	 public static void main(String[]args)
 	    {
 		 	FileIO reader = new FileIO();
-		 	String[] inputs = reader.load("C:\\Users\\Cieran\\Desktop\\encoded1.txt");
+		 	String[] inputs = reader.load("../../16cipherText_1_2.txt");
 		 	String word = Arrays.toString(inputs);
 	       	int[]ASCIIarray = new int[256]; //create array with a slot for every ASCII value
 	       	/*

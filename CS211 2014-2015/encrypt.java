@@ -1,4 +1,3 @@
-package Labs;
 public class encrypt{
 
     public static void main(String[] args){
@@ -6,7 +5,6 @@ public class encrypt{
         FileIO reader = new FileIO();
  
         String[] inputs = reader.load("C:\\Users\\Cieran\\Desktop\\cieran.txt");    //Reading the File as a String array
-        
         for(int i=0;i<inputs.length;i++){
             System.out.println(inputs[i]);
         }

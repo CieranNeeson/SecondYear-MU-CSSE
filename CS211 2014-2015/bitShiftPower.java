@@ -1,4 +1,3 @@
-package Labs;
 import java.util.Scanner;
 /* Program to find next power of 2 to an inputted number
  * This program calculates the next power using purely
